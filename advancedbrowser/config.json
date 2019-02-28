@@ -1,4 +1,5 @@
 {
   "Use a single list for fields":false,
-  "Show advanced fields": false
+  "Show advanced fields": false,
+  "Shortcut: only show note":"Ctrl+Alt+N"
 }
