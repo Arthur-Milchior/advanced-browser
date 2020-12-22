@@ -10,7 +10,6 @@ from anki.hooks import addHook, wrap
 from anki.rsbackend import FormatTimeSpanContext
 from anki.lang import _
 from anki.stats import CardStats
-from anki.utils import fmtTimeSpan
 from aqt import *
 from aqt.main import AnkiQt
 from aqt.utils import askUser
